@@ -1,0 +1,3 @@
+G:/opencvcode/ImageQuality/CMakeFiles/brisquequality.dir
+G:/opencvcode/ImageQuality/CMakeFiles/ALL_BUILD.dir
+G:/opencvcode/ImageQuality/CMakeFiles/ZERO_CHECK.dir
